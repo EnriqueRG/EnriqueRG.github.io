@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : <a href="https://arxiv.org/search/?searchtype=author&query=Garcia%2C+E+R" rel="noopener noreferrer">arXiv</a>
+  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Garcia%2C+E+R"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=-_TedvUAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
@@ -84,7 +84,7 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts:
-    title: 'Journal Articles'
+    title: 'Articles'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
