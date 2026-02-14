@@ -10,9 +10,6 @@
 main:
   - title: "Publications"
     url: /publications/
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Fun Side Projects"
     url: /year-archive/
