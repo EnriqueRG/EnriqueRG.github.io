@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   academia         : # URL
-  arxiv            : "https://arxiv.org/search/?searchtype=author&query=Garcia%2C+E+R"
+  arxiv            : <a href="https://arxiv.org/search/?searchtype=author&query=Garcia%2C+E+R" rel="noopener noreferrer">arXiv</a>
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=-_TedvUAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
