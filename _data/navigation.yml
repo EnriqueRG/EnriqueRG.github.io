@@ -20,14 +20,14 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Fun Side Projects"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "Code"
     url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
+  - title: "About"
     url: /markdown/
