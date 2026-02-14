@@ -12,10 +12,10 @@ main:
     url: /publications/
         
   - title: "Fun Side Projects"
-    url: /year-archive/
+    url: /side-projects/
     
   - title: "Code"
-    url: /cv/
+    url: /code/
     
   - title: "About"
-    url: /markdown/
+    url: /about/
