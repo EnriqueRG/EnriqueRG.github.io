@@ -9,6 +9,8 @@ redirect_from:
 
 Hi :)
 
+Check out [Göteborgs Origamiklubb](https://sarnitsky.se/gok.html)!
+
 Section
 ======
 Contents of the section
