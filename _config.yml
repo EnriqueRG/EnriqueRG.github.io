@@ -22,14 +22,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.JPG"
+  name             : "Enrique Rozas Garcia"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Physics PhD Student"
+  location         : # "Earth"
+  employer         : "University of Gothenburg"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "enrique.rozas.garcia@physics.gu.se" 
 
   # Academic websites
   academia         : # URL
